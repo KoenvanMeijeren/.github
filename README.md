@@ -5,7 +5,7 @@ I studied Software Engineering at Windesheim HBO-ICT and I am currently working 
 
 My expertise is in backend work, but I also have experience in front-end work. 
 Over the years I have learned and practiced a lot in programming. 
-My portfolio contains several school projects I have created over the past few years. 
+My portfolio contains several school and hobby projects I have created over the past few years. 
 I also have several hobby projects, in which I practice programming techniques or write frameworks myself (like koenavel or wijdthemuwkunst).
 
 [![Koen's github stats](https://github-readme-stats.vercel.app/api?username=koenvanmeijeren&show_icons=true&theme=transparent&count_private=true)](https://github.com/koenvanmeijeren/)
